@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Mario Game" width="900" />
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Mario Game" width="1000" />
 <div align="center">
 
 
