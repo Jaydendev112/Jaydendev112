@@ -1,3 +1,4 @@
+<p align="center"><img src="https://img.shields.io/badge/I Am %20A DARK- PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
 
 
